@@ -15,8 +15,8 @@ So far the content covers:
 - [x] Strategy
 - [x] Template Method
 - [x] Visitor
-- [ ] Adapter
-- [ ] Bridge
+- [x] Adapter
+- [x] Bridge
 - [ ] Composite
 - [ ] Decorator
 - [ ] Flyweight
