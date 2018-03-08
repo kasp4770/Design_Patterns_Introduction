@@ -5,26 +5,26 @@ So far the content covers:
 - [x] Singleton
 - [x] Facade
 - [x] Command
-- [] Chain of Responsibility
-- [] Interpreter
-- [] Iterator
-- [] Mediator
-- [] Memento
-- [] Observer
-- [] State
-- [] Strategy
-- [] Template Method
-- [] Visitor
-- [] Adapter
-- [] Bridge
-- [] Composite
-- [] Decorator
-- [] Flyweight
-- [] Proxy
-- [] Abstract Factory
-- [] Builder
-- [] Factory Method
-- [] Prototype
+- [ ] Chain of Responsibility
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Flyweight
+- [ ] Proxy
+- [ ] Abstract Factory
+- [ ] Builder
+- [ ] Factory Method
+- [ ] Prototype
 
 
 
