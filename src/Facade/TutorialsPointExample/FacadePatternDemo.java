@@ -8,4 +8,4 @@ public class FacadePatternDemo {
         shapeMaker.drawRectangle();
         shapeMaker.drawSquare();
     }
-}//
+}
