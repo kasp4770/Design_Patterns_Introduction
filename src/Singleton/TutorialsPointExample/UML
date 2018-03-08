@@ -1,1 +1,0 @@
-![](Singleton/TutorialsPointExample/SingleObject.png)
