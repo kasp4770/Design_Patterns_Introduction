@@ -9,7 +9,7 @@ So far the content covers:
 - [x] Interpreter
 - [x] Iterator
 - [x] Mediator
-- [ ] Memento
+- [x] Memento
 - [ ] Observer
 - [ ] State
 - [ ] Strategy
