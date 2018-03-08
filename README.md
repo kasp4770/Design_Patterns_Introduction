@@ -10,7 +10,7 @@ So far the content covers:
 - [x] Iterator
 - [x] Mediator
 - [x] Memento
-- [ ] Observer
+- [x] Observer
 - [ ] State
 - [ ] Strategy
 - [ ] Template Method
