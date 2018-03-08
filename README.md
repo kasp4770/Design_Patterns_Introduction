@@ -8,7 +8,7 @@ So far the content covers:
 - [x] Chain of Responsibility
 - [x] Interpreter
 - [x] Iterator
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [ ] Observer
 - [ ] State
