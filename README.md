@@ -1,4 +1,7 @@
 # Design_Patterns_Introduction
+This repository contains examples of different behavioral, structural and creational designpatterns.
+Every package has a readme file with a description of the purpose of the pattern, when to use it and an example, and 
+furthermore it also contains a example in javacode.
 ### Content
 Explanations and examples of selected designpatterns.
 So far the content covers:
