@@ -5,4 +5,4 @@ So far the content covers:
 - Singeton
 - Facade
 - Command
-![DesignPatterns.png](DesignPatterns.png)
+![DesignPatterns.png](Design_Patterns_Introduction/DesignPatterns.png)
