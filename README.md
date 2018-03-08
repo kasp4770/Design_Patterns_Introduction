@@ -5,4 +5,4 @@ So far the content covers:
 - Singeton
 - Facade
 - Command
-![](\Pictures/DesignPatterns.png)
+![](C:\Users\Kasper\Pictures\DesignPatterns.png)
