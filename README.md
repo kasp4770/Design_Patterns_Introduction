@@ -13,8 +13,8 @@ So far the content covers:
 - [x] Observer
 - [x] State
 - [x] Strategy
-- [ ] Template Method
-- [ ] Visitor
+- [x] Template Method
+- [x] Visitor
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Composite
