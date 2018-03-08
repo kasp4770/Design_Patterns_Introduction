@@ -15,4 +15,4 @@ functionality to be executed can be given to a job queue for
 processing without any need for the queue to have knowledge
 of the actual implementation it is invoking. The command object
 that is enqueued implements its particular algorithm within the
-confines of the interface the queue is expecting.
+confines of the interface the queue is expecting..
