@@ -21,8 +21,8 @@ So far the content covers:
 - [x] Decorator
 - [x] Flyweight
 - [x] Proxy
-- [ ] Abstract Factory
-- [ ] Builder
+- [x] Abstract Factory
+- [x] Builder
 - [ ] Factory Method
 - [ ] Prototype
 
