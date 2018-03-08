@@ -8,7 +8,7 @@ based relationships such as queuing and callbacks.
 - A history of requests is needed.
 - The invoker should be decoupled from the object handling the
 invocation.
-###Example
+### Example
 Job queues are widely used to facilitate the asynchronous
 processing of algorithms. By utilizing the command pattern the
 functionality to be executed can be given to a job queue for
