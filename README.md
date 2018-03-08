@@ -2,10 +2,8 @@
 ### Content
 Explanations and examples of selected designpatterns.
 So far the content covers:
-- [x] Singleton
-- [x] Facade
-- [x] Command
 - [x] Chain of Responsibility
+- [x] Command
 - [x] Interpreter
 - [x] Iterator
 - [x] Mediator
@@ -13,18 +11,20 @@ So far the content covers:
 - [x] Observer
 - [x] State
 - [x] Strategy
-- [x] Template Method
+- [x] Template
 - [x] Visitor
 - [x] Adapter
 - [x] Bridge
 - [x] Composite
 - [x] Decorator
 - [x] Flyweight
+- [x] Facade
 - [x] Proxy
 - [x] Abstract Factory
 - [x] Builder
-- [ ] Factory Method
-- [ ] Prototype
+- [x] Factory
+- [x] Prototype
+- [x] Singleton
 
 
 
