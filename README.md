@@ -11,8 +11,8 @@ So far the content covers:
 - [x] Mediator
 - [x] Memento
 - [x] Observer
-- [ ] State
-- [ ] Strategy
+- [x] State
+- [x] Strategy
 - [ ] Template Method
 - [ ] Visitor
 - [ ] Adapter
