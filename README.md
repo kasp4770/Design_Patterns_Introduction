@@ -5,4 +5,4 @@ So far the content covers:
 - Singeton
 - Facade
 - Command
-![](Kasper//Design_Patterns_Introduction/DesignPatterns.png)
+![](IdeaProjects/Design_Patterns_Introduction/DesignPatterns.png)
