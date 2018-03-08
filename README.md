@@ -7,7 +7,7 @@ So far the content covers:
 - [x] Command
 - [x] Chain of Responsibility
 - [x] Interpreter
-- [ ] Iterator
+- [x] Iterator
 - [ ] Mediator
 - [ ] Memento
 - [ ] Observer
