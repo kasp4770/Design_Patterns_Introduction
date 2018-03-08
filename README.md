@@ -17,8 +17,8 @@ So far the content covers:
 - [x] Visitor
 - [x] Adapter
 - [x] Bridge
-- [ ] Composite
-- [ ] Decorator
+- [x] Composite
+- [x] Decorator
 - [ ] Flyweight
 - [ ] Proxy
 - [ ] Abstract Factory
