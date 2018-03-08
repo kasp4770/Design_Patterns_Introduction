@@ -5,7 +5,7 @@ So far the content covers:
 - [x] Singleton
 - [x] Facade
 - [x] Command
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
