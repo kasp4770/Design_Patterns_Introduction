@@ -19,8 +19,8 @@ So far the content covers:
 - [x] Bridge
 - [x] Composite
 - [x] Decorator
-- [ ] Flyweight
-- [ ] Proxy
+- [x] Flyweight
+- [x] Proxy
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Factory Method
