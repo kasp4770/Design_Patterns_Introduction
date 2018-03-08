@@ -24,3 +24,4 @@ public class InterpreterPatternDemo {
         System.out.println("Julie is a married women? " + isMarriedWoman.interpret("Married Julie"));
     }
 }
+//

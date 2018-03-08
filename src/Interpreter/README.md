@@ -16,4 +16,4 @@ For example, “go in” would result in a different outcome than
 “go up”. By creating a hierarchy of commands based upon
 the command and the qualifier (non-terminal and terminal
 expressions) the application could easily map many command
-variations to a relating tree of actions.
+variations to a relating tree of actions. //
