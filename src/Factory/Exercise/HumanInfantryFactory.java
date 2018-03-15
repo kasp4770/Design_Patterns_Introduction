@@ -1,26 +1,31 @@
 package Factory.Exercise;
 
-public class HumanInfantryFactory {
+public class HumanInfantryFactory extends InfantryUnit{
 
 
     public InfantryUnit createUnit(int techLevel) {
-
+        InfantryUnit character = null;
 
         switch (techLevel) {
             case 1:
-                return new RockHauler();
+                character = new RockHauler();
+                character.setRace("Human"); break;
             case 2:
-                return new SpearThrower();
+                character = new SpearThrower();
+                character.setRace("Human"); break;
             case 3:
-                return new Archer();
+                character = new Archer();
+                character.setRace("Human"); break;
             case 4:
-                return new CrossbowMan();
+                character = new CrossbowMan();
+                character.setRace("Human"); break;
             case 5:
-                return new Musketeer();
+                character = new Musketeer();
+                character.setRace("Human"); break;
         }
         if (techLevel <1 || techLevel >5){
-            return null;
+            character = null;
         }
-        return null;
+        return character;
     }
 }

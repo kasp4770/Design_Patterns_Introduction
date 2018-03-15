@@ -6,6 +6,7 @@ public abstract class InfantryUnit {
     private int armor;
     private int hits;
     private int damage;
+    private String race;
 
     public InfantryUnit(){}
 
@@ -28,4 +29,7 @@ public abstract class InfantryUnit {
         unit.takeDamage(attackDamage);
     }
 
+    public void setRace(String race) {
+        this.race = race;
+    }
 }
